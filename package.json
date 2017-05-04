@@ -1,0 +1,52 @@
+{
+  "name": "travis demo",
+  "version": "0.0.1",
+  "description": "travis demo with npm",
+  "main": "assests/main.js",
+  "private": true,
+  "author": "Ishant Solanki",
+  "license": "ISC",
+  "engines": {
+    "node": "7.4.0"
+  },
+  "scripts": {
+
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.3.2",
+    "babel-preset-es2015": "^6.24.0",
+    "babelify": "^7.3.0",
+    "bluebird": "^3.4.7",
+    "browserify": "^14.0.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-spies": "^0.7.1",
+    "eslint": "^3.17.1",
+    "eslint-config-recommended": "^1.5.0",
+    "handlebars": "^4.0.6",
+    "istanbul-instrumenter-loader": "^1.2.0",
+    "jquery": "^3.1.1",
+    "jsdom": "^9.9.1",
+    "karma": "^1.6.0",
+    "karma-babel-preprocessor": "^6.0.1",
+    "karma-browserify": "^5.1.1",
+    "karma-chai": "^0.1.0",
+    "karma-chai-as-promised": "^0.1.2",
+    "karma-chai-spies": "^0.1.4",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-jsdom-launcher": "^5.0.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "2.2.3",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "karma-sinon": "^1.0.5",
+    "karma-spec-reporter": "0.0.26",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0",
+    "watchify": "^3.9.0"
+  }
+}
